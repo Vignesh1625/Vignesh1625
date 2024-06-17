@@ -7,16 +7,30 @@ ___
 💡 I like to explore new technologies and develop software solutions and quick hacks.  
 🎓 I'm currently pursuing my B.Tech in Computer Science Engineering at CMR College of Engineering & Technology, Hyderabad.  
 🌱 I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.  
-✍️ In my free time, I pursue building things.  
-💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.  
+✍️ In my free time, I build things.  
 ✉️ You can shoot me an email at [eligetivignesh@gmail.com](mailto:eligetivignesh@gmail.com)! I'll try to respond as soon as I can.  
 📄 Please have a look at my [Résumé](https://links.cuvette.tech/student/66167ba063d899a0c088d35e) for more details about me. I'm open to feedback and suggestions.  
 
 ___
 
 ## [Tech Stack](#tech-stack)
-- **Languages & Frameworks**: React.js, HTML, CSS, JavaScript, Python, Node.js, Java, C/C++
-- **Technologies**: Deep Learning, DevOps, Machine Learning, SQLite, Flask, Firebase, MongoDB, TensorFlow, NumPy
+- React.js
+- HTML
+- CSS
+- JavaScript
+- Python
+- Node.js
+- Java
+- C/C++
+- Deep Learning
+- DevOps
+- Machine Learning
+- SQLite
+- Flask
+- Firebase
+- MongoDB
+- TensorFlow
+- NumPy
 
 ___
 
