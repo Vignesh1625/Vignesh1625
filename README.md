@@ -15,9 +15,11 @@ ___
 
 ## [Tech Stack](#tech-stack)
 
-<img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="350" height="250"/>
+<img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250" height="170"/>
 
-React.js • HTML • CSS • JavaScript • Python • Node.js • Java • C/C++ • Deep Learning • DevOps • Machine Learning • SQLite • Flask • Firebase • MongoDB • TensorFlow • NumPy
+- React.js • HTML • CSS • JavaScript • Python • Node.js 
+- Java • C/C++ • Deep Learning • DevOps • Machine Learning 
+- SQLite • Flask • Firebase • MongoDB • TensorFlow • NumPy
 
 ___
 
@@ -26,6 +28,4 @@ ___
 - **LinkedIn**: [eligeti-vignesh-477517249](https://www.linkedin.com/in/eligeti-vignesh-477517249/)
 - **GitHub**: [Vignesh1625](https://github.com/Vignesh1625)
 - **CodeChef**: [vignesh_v1625](https://www.codechef.com/users/vignesh_v1625)
-- **LeetCode**: [vignesh1625](https://leetcode.com/u/vignesh1625/)
-- **Codeforces**: [Vignesh_1625](https://codeforces.com/profile/Vignesh_1625)
-- **Portfolio**: [Vignesh's Portfolio](https://vignesh1625.github.io/Portfolio/)
+- **LeetCode**: [vignesh1625](https://
