@@ -1,4 +1,7 @@
-## Hi there 👋
+
+![image](https://github.com/Vignesh1625/Vignesh1625/assets/112402061/0017d459-6686-49d7-b47c-ea4fd8351d36)
+
+##👋 Hey there! I'm Vignesh
 
 <!--
 **Vignesh1625/Vignesh1625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
