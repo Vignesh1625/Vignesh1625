@@ -14,22 +14,25 @@ ___
 ___
 
 ## [Tech Stack](#tech-stack)
-- React.js
-- HTML
-- CSS
-- JavaScript
-- Python
-- Node.js
-- Java
-- C/C++
-- Deep Learning
-- DevOps
-- Machine Learning
-- SQLite
-- Flask
-- Firebase
-- MongoDB
-- TensorFlow
+
+<img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="350" height="250"/>
+
+- React.js •
+- HTML •
+- CSS •
+- JavaScript •
+- Python •
+- Node.js •
+- Java •
+- C/C++ •
+- Deep Learning •
+- DevOps •
+- Machine Learning •
+- SQLite •
+- Flask •
+- Firebase •
+- MongoDB •
+- TensorFlow •
 - NumPy
 
 ___
