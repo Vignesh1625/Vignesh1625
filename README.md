@@ -17,11 +17,11 @@ ___
 
 <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250" height="170"/>
 
-- • React.js • HTML • CSS • JavaScript • Flask • Node.js • Express Js 
-- • Java • C/C++ • R language • Python 
-- • SQL • Firebase • MongoDB 
-- • Machine Learning • TensorFlow • Deep Learning 
-- • Git & Github • DevOps 
+- React.js • HTML • CSS • JavaScript • Flask • Node.js • Express Js 
+- Java • C/C++ • R language • Python 
+- SQL • Firebase • MongoDB 
+- Machine Learning • TensorFlow • Deep Learning 
+- Git & Github • DevOps 
 
 ___
 
