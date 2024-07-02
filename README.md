@@ -6,10 +6,10 @@ ___
 ## [About Me](#about-me)
 💡 I like to explore new technologies and develop software solutions and quick hacks.  
 🎓 I'm currently pursuing my B. Tech in Computer Science Engineering at CMR College of Engineering & Technology, Hyderabad.  
-🌱 I'm on track to learn more about Artificial Intelligence, Systems Design, and Cloud Architecture.  
-✍️ In my free time, I build things.  
+🌱 I'm on track to learn more about Deep Learning, Development, and Programming.
+✍️ In my free time, I developed applications and did freelance work.
 ✉️ You can shoot me an email at [eligetivignesh@gmail.com](mailto:eligetivignesh@gmail.com)! I'll try to respond as soon as I can.  
-📄 Please have a look at my [Résumé](https://links.cuvette.tech/student/66167ba063d899a0c088d35e) for more details about me. I'm open to feedback and suggestions.  
+📄 Please have a look at my [Portfolio](https://vignesh1625.github.io/Vignesh1625/) for more details about me. I'm open to feedback and suggestions.  
 
 ___
 
@@ -17,9 +17,11 @@ ___
 
 <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250" height="170"/>
 
-- React.js • HTML • CSS • JavaScript • Python • Node.js 
-- Java • C/C++ • Deep Learning • DevOps • Machine Learning 
-- SQLite • Flask • Firebase • MongoDB • TensorFlow • NumPy
+• React.js • HTML • CSS • JavaScript • Flask • Node.js • Express Js
+• Java • C/C++ • R language • Python 
+• SQL • Firebase • MongoDB 
+• Machine Learning • TensorFlow • Deep Learning 
+• Git & Github • DevOps 
 
 ___
 
