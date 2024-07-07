@@ -1,6 +1,3 @@
-# Creating the enhanced README in markdown file format
-
-readme_content = """
 ![header](https://github.com/Vignesh1625/Vignesh1625/assets/112402061/e3293cba-5394-4d77-bc4e-23ea01ec7eee)
 
 # 👋 Hey there! I'm Vignesh
@@ -10,8 +7,8 @@ ___
 💡 Passionate about exploring new technologies and developing innovative software solutions and quick hacks.  
 🎓 Currently pursuing a B. Tech in Computer Science Engineering at CMR College of Engineering & Technology, Hyderabad.  
 🌱 Continuously learning and advancing in Deep Learning, Development, and Programming.
-✍️ In my free time, I develop applications and do freelance work.
-✉️ Feel free to reach out via email at [eligetivignesh@gmail.com](mailto:eligetivignesh@gmail.com). I’ll get back to you as soon as possible.  
+-✍️ In my free time, I develop applications and do freelance work.
+-✉️ Feel free to email at [eligetivignesh@gmail.com](mailto:eligetivignesh@gmail.com). I’ll get back to you as soon as possible.  
 📄 Check out my [Portfolio](https://vignesh1625.github.io/Vignesh1625/) for more details about me. I'm always open to feedback and suggestions.  
 
 ___
