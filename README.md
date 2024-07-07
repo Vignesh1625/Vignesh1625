@@ -6,9 +6,9 @@ ___
 ## About Me
 💡 Passionate about exploring new technologies and developing innovative software solutions and quick hacks.  
 🎓 Currently pursuing a B. Tech in Computer Science Engineering at CMR College of Engineering & Technology, Hyderabad.  
-🌱 Continuously learning and advancing in Deep Learning, Development, and Programming.
-- ✍️ In my free time, I develop applications and do freelance work.
-- ✉️ Feel free to email at [eligetivignesh@gmail.com](mailto:eligetivignesh@gmail.com). I’ll get back to you as soon as possible.  
+🌱 Continuously learning and advancing in Deep Learning, Development, and Programming.  
+✍️ In my free time, I develop applications and do freelance work.  
+✉️ Feel free to email at [eligetivignesh@gmail.com](mailto:eligetivignesh@gmail.com). I’ll get back to you as soon as possible.  
 📄 Check out my [Portfolio](https://vignesh1625.github.io/Vignesh1625/) for more details about me. I'm always open to feedback and suggestions.  
 
 ___
@@ -32,4 +32,3 @@ ___
 - **GitHub**: [Vignesh1625](https://github.com/Vignesh1625)
 - **CodeChef**: [vignesh_v1625](https://www.codechef.com/users/vignesh_v1625)
 - **LeetCode**: [vignesh1625](https://leetcode.com/vignesh1625/)
-"""
