@@ -9,7 +9,7 @@ ___
 🌱 Continuously learning and advancing in Deep Learning, Development, and Programming.  
 ✍️ In my free time, I develop applications and do freelance work.  
 ✉️ Feel free to email at [eligetivignesh@gmail.com](mailto:eligetivignesh@gmail.com). I’ll get back to you as soon as possible.  
-📄 Check out my [Portfolio](https://vignesh1625.github.io/Vignesh1625/) for more details about me. I'm always open to feedback and suggestions.  
+📄 Check out my [My Website](https://vignesh1625.github.io/Vignesh1625/) for more details about me. I'm always open to feedback and suggestions.  
 
 ___
 
