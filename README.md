@@ -19,23 +19,16 @@ ___
 
 <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250" height="170"/>
 
-### **Frontend**
-- React.js • HTML • CSS • JavaScript  
+- **Programming Languages**: Java • Python • C/C++ • JavaScript • R • SQL (PostgreSQL, MySQL)
+- **Web Technologies**: HTML • CSS • JavaScript • REST API • GraphQL
+- **Backend Frameworks & Platforms**: Flask • Django • Spring Boot • Hibernate • Node.js • Express.js
+- **Databases**: PostgreSQL • MySQL • MongoDB • Firebase • SQLite
+- **Data Science & AI**: Machine Learning • Deep Learning • TensorFlow • PyTorch • OpenCV • NLTK • NumPy • pandas • Matplotlib • Scikit-learn
+- **Developer Tools**: Git & GitHub • Docker • Kubernetes • Maven • Gradle • Jupyter Notebook
+- **Cloud Platforms**: AWS (EC2, S3, Lambda) • Google Cloud Platform (GCP) • Azure
+- **Algorithms & Data Structures**: Graphs • Dynamic Programming • Sorting • Searching • Trees • Hashing
+- **Certifications**: Professional Certification in Machine Learning • Deep Learning with TensorFlow • Full Stack Web Development
 
-### **Backend**
-- Flask • Django • Node.js • Express.js  
-
-### **Languages**
-- Python • Java • C/C++ • R  
-
-### **Databases**
-- SQL • Firebase • MongoDB • PostgreSQL  
-
-### **Data Science & AI**
-- Machine Learning • TensorFlow • PyTorch • OpenCV • NumPy • Pandas  
-
-### **Cloud & DevOps**
-- AWS (EC2, S3, Lambda) • Google Cloud Platform (GCP) • Docker • Kubernetes • Git & GitHub  
 
 ___
 
@@ -44,14 +37,6 @@ ___
 🏆 **Winner, Hacker the Verse Hackathon**: Secured first place at CMRIT campus for developing an innovative tech solution.  
 🎯 **LeetCode Enthusiast**: Successfully solved over **400 coding problems**, honing problem-solving and algorithmic thinking skills.  
 👥 **Board Member, Entrepreneur Club**: Led technical teams in organizing hackathons and innovation events, fostering creativity and collaboration.
-
-___
-
-## Certifications
-
-- Professional Certification in **Machine Learning**  
-- Deep Learning with **TensorFlow**  
-- Full Stack Web Development  
 
 ___
 
